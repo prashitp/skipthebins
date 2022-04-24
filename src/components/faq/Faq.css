@@ -1,0 +1,39 @@
+/* Author : Aabhaas Jain */
+.accordion{
+    margin-top: 3vh;
+    box-shadow: 3px 3px 6px 3px darkgrey;
+    border-radius: 10px;
+}
+
+.faq-heading{
+    font-size: 3em;
+    font-weight: 700;
+    color: rgb(17, 45, 92);
+}
+.accordion-button {
+    font-weight: 700 !important;
+}
+
+.edit-icon{
+margin-right: 1em;
+cursor: pointer;
+}
+.edit-icon:hover{
+color:rgb(197, 52, 52);
+}
+.btn-position{
+  display: block;
+  margin-left: auto;
+  margin-right: 0;
+}
+
+.btn-position-button{
+    display: block;
+    margin-left: auto;
+    margin-right: 0;
+    background-color: rgb(40, 111, 18);
+}
+
+.btn-position-mt-3 {
+    background-color: rgb(40, 111, 18);
+}

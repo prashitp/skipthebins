@@ -1,0 +1,27 @@
+/*Author Lokansh Gupta*/
+.grid {
+  min-height: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+.grid > div {
+  flex-basis: calc(50% - 40px);
+}
+
+.cardTitle {
+  color: rgba(17, 45, 92, 0.85);
+  font-weight: bold;
+  text-align: center;
+}
+
+.cardDesc {
+  text-align: center;
+
+  color: rgb(71, 68, 68);
+}
+
+.contactContainer {
+  min-height: 600px;
+}

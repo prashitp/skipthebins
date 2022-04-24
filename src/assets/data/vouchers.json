@@ -1,0 +1,22 @@
+{
+    "voucherData":[
+        {
+            "id":1,
+            "companyName":"Amazon",
+            "value":"50",
+            "points":"100"
+        },
+        {
+            "id":2,
+            "companyName":"Nike",
+            "value":"100",
+            "points":"200"
+        },
+        {
+            "id":3,
+            "companyName":"Sobeys",
+            "value":"25",
+            "points":"50"
+        }
+    ]
+}

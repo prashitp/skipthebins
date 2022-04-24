@@ -1,0 +1,48 @@
+.delete-button {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.announcement-style {
+  font-size: 1.02rem !important;
+}
+
+.announcement-button {
+  display: block;
+  margin-left: auto;
+  margin-right: 0;
+}
+
+.notifications-allignment {
+  width: 345px;
+  position: absolute;
+  margin-left: -13px;
+  margin-top: 8px;
+  box-shadow: 2px 2px 8px 5px #415565;
+  text-align: left !important;
+}
+
+.triangleIcon {
+  position: absolute;
+
+  margin-left: 16px;
+  margin-top: -14px;
+}
+
+.title {
+  color: #364c75;
+}
+
+.content {
+  color: grey;
+  font-weight: 500;
+}
+
+.time-diff {
+  color: #007bff;
+  font-size: 1rem;
+  font-weight: 400;
+  display: flex;
+  justify-content: flex-end;
+  line-height: 0;
+}

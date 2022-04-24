@@ -1,0 +1,14 @@
+.cardButton {
+    background-color: rgba(40, 111, 18, 0.85);
+}
+
+.cardTitle {
+    color: rgba(17, 45, 92, 0.85);
+    font-weight: bold;
+    text-align: center;
+}
+
+.cardDesc {
+    text-align: center;
+    color: rgb(71, 68, 68);
+}

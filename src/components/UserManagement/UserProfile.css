@@ -1,0 +1,11 @@
+/**
+ *   @author : Vasu Gamdha (B00902737)
+ */
+
+.profile__name {
+  font-size: xx-large;
+}
+
+.profile__details {
+  display: flex;
+}

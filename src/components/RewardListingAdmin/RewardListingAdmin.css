@@ -1,0 +1,22 @@
+/*Author: Jaimi Maheshbhai Sheta (B00886563)*/
+
+table caption
+{
+    caption-side: top;
+}
+
+.table {
+    border: 1px solid;
+    text-align: center;
+    caption-side: top;
+}
+
+th {
+    overflow: auto;
+    font-size: 20px;
+    color: #495057;
+}
+
+td {
+    overflow: auto;
+}

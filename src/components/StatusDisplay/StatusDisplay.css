@@ -1,0 +1,19 @@
+/*Author: Jaimi Maheshbhai Sheta (B00886563)*/
+
+.label {
+    font-size: 15px;
+    border-radius: 10px;
+    padding: 5px 10px;
+}
+
+.label-active {
+    background-color: #2fab2f;
+}
+
+.label-inactive {
+    background-color: #e15b5b;
+}
+
+.label-pending {
+    background-color: #4068b7;
+}
