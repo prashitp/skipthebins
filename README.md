@@ -1,5 +1,7 @@
 # Project - Skip The Bins
 
+* This project is developed as a part of course work for CSCI 5709 - Advanced Web Services.
+
 * Project - Skip the bins : Recyclable waste management system
 The project gives a common platform for the vendors who recycle waste and the users who wants to submit their waste to those vendors. Users will schedule a waste pickup from this website, track the pickup and will receive rewards based on the amount of waste given. Users can see history of their submissions. Vendors can schedule pickups and award rewards to users. Both users and vendors can see staticstics of the waste submissions.
 
@@ -78,3 +80,4 @@ This project is deployed on Heroku server. Follow below steps for deployment:
 ## Acknowledgments
 
 * React Documentation - [react.js](https://reactjs.org/docs/getting-started.html)
+
