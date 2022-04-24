@@ -1,4 +1,4 @@
-# skipthebins
+# Skip The Bins
 
 * Recyclable Waste Management Website
 * This project is developed as a part of course work for CSCI 5709 - Advanced Web Services.
